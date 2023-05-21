@@ -52,7 +52,7 @@ void jogarForca() {
     memset(letrasAdivinhadas, '\0', sizeof(letrasAdivinhadas));
 
     printf("Bem-vindo ao jogo da forca!\n");
-    printf("Tente adivinhar a palavra desconhecida.\n");
+    printf("Tente adivinhar a palavra desconhecida, relacionadas a tecnologia.\n");
 
     while (1) {
         printf("\nPalavra: ");
