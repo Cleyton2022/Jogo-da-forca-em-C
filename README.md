@@ -1,8 +1,9 @@
 # Jogo-da-forca-em-C
 Trabalho da Faculdade, estruturado em C
 
-Tema 3 - Jogo da Forca
-Descrição
+Tema 3 - Jogo da Forca.
+
+Descrição:
 
 Neste projeto, o objetivo é desenvolver um jogo da forca, onde um jogador tenta 
 adivinhar uma palavra desconhecida, fornecendo letras como palpites. O jogo deve 
